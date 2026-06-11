@@ -1,7 +1,8 @@
-# fnl-hids-2026
-Summer 2026 HIDS Capstone - AI-assisted scientific analysis for NCI Cancer Research Data Commons
+# hids-fnlcr-2026
+# Summer 2026 HIDS Capstone - AI-assisted scientific analysis for NCI Cancer Research Data Commons
 
-# Internship Project
+
+## Internship Project
 
 **Student:** Stephanie Araki  
 **Program:** Health Informatics and Data Science, Georgetown University  
